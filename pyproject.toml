@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "glyphsapp"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Rafał Buchner <rafal.buchner@gmail.com>"]
 readme = "README.md"
